@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: aqua;
+    font-family: cursive;
+}
+
+#googleMap {
+    width:500px;
+    height:380px;
+}
+
